@@ -1,0 +1,6 @@
+{
+  "name": "WAREWEAR",
+  "description": "WAREWEAR — Your Style. Your Identity. Premium minimalist fashion e-commerce platform with full catalog, shopping bag, multi-step checkout, customer portal, and admin control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
